@@ -19,6 +19,9 @@ https://pku-yuangroup.github.io/MagicTime/
 
 ### 🖼 Output
 
+![0-1587796317-Time-lapse-of-dough-balls-transforming-into-bread-rolls_-Begins-with](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/f8732f9a-122b-4702-87e5-673eb9875b6e)
+
+![1-2883629116-Time-lapse-of-cupcakes-progressing-through-the-baking-process_-starting-from](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/dc1d46a9-af5a-4056-8983-2c0b721d489d)
 
 ### 🏢 Sponsor
 https://modelslab.com
