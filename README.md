@@ -26,5 +26,7 @@ https://pku-yuangroup.github.io/MagicTime/
 
 ![867d8c7a-7a92-4cf6-83e7-2d6e065ff8e1](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/0b0d1ca7-b310-4c2f-b60e-4c4f02404314)
 
+![cf43c6a8-816d-41a6-8fea-17b346928cdc](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/2028296d-58e6-41cd-97b9-c1dcca7dea39)
+
 ### 🏢 Sponsor
 https://modelslab.com
