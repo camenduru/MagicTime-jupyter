@@ -24,7 +24,7 @@ https://pku-yuangroup.github.io/MagicTime/
 
 ![1-2883629116-Time-lapse-of-cupcakes-progressing-through-the-baking-process_-starting-from](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/dc1d46a9-af5a-4056-8983-2c0b721d489d)
 
-![2-3068368949-Cherry-blossoms-transitioning-from-tightly-closed-buds-to-a-peak](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/40fb717d-8e3e-4118-baec-69407e19ac2e)
+![867d8c7a-7a92-4cf6-83e7-2d6e065ff8e1](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/0b0d1ca7-b310-4c2f-b60e-4c4f02404314)
 
 ### 🏢 Sponsor
 https://modelslab.com
