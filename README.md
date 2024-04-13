@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicTime-jupyter/blob/main/MagicTime_jupyter.ipynb) | MagicTime_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicTime-jupyter/blob/main/MagicTime_gradio_jupyter.ipynb) | MagicTime_gradio_jupyter
 
 ### 🧬 Code
 https://github.com/PKU-YuanGroup/MagicTime
