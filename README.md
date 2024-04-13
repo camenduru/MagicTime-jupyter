@@ -20,7 +20,7 @@ https://pku-yuangroup.github.io/MagicTime/
 
 ### 🖼 Output
 
-![merge_all (1)](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/8b376220-c346-44f6-8d4d-f6662d61d7e7)
+![merge_all1-ezgif com-loop-count](https://github.com/camenduru/MagicTime-replicate/assets/54370274/4e7d6a2c-21e7-470a-a465-9260b387d204)
 
 ![0-1587796317-Time-lapse-of-dough-balls-transforming-into-bread-rolls_-Begins-with](https://github.com/camenduru/MagicTime-jupyter/assets/54370274/f8732f9a-122b-4702-87e5-673eb9875b6e)
 
